@@ -11,6 +11,11 @@
 *.gch
 *.pch
 
+# Visual studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
