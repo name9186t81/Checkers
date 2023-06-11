@@ -1,4 +1,4 @@
-п»ї#include <iostream>
+#include <iostream>
 #include <SDL.h>
 
 int main(int argvc, char** args)
@@ -10,4 +10,4 @@ int main(int argvc, char** args)
 
 
 
-//Р±Р»РѕРєРЅРѕС‚ РѕРЅР»Р°Р№РЅ Р»СѓС‡С€Рµ РіРёС‚Р°, РІСЂР°С‚СЊ РЅРµ Р±СѓРґСѓ
+//блокнот онлайн лучше гита, врать не буду
