@@ -12,9 +12,9 @@
 *.pch
 
 # Visual studio files and folders
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
+Checkers/*.vcxproj
+Checkers/*.vcxproj.filters
+Checkers/*.vcxproj.user
 .vs/
 x64/
 
