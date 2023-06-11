@@ -11,10 +11,12 @@
 *.gch
 *.pch
 
-# Visual studio files
+# Visual studio files and folders
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+.vs/
+x64/
 
 # Compiled Dynamic libraries
 *.so
