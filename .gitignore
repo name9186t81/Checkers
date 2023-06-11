@@ -13,6 +13,7 @@
 
 # Visual studio files and folders
 Checkers/*.vcxproj
+Checkers/*.vcxproj.filters
 Checkers/*.vcxproj.user
 .vs/
 x64/
